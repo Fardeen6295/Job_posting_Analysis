@@ -36,7 +36,7 @@ plt.show()
 ```
 
 ## Results
-![Graph of Data Roles with Most Required Skills for each of them](Luke_python\3_Project\Images\Skill_demad_for_3DataRoles.png)
+![Graph of Data Roles with Most Required Skills for each of them](Skill_demad_for_3DataRoles.png)
 
 
 ## Key Insights
@@ -75,7 +75,7 @@ S* AS is less frequently requested but still notable at 19%.
 To find Out the trend of In-demand Skill for Data Analyst Role in the entire Year and tracking the trend for analysing what % of Job Postings had those skills in them and are going to be important in Next Year job Market
 
 For Details of Process and Methods, Go through the NoteBook:      
-[3_Skills_Trend](Luke_python\3_Project\3_Skills_Trend.ipynb)
+[3_Skills_Trend](3_Skills_Trend.ipynb)
 
 ## For Data Visualization
 ```python
@@ -98,7 +98,7 @@ plt.show()
 ```
 
 ## Results
-![Graph with likelihood of Skill to be in job posting of Data Analyst](Luke_python\3_Project\Images\Likelihood_of_skill_in_DA_role.png)  
+![Graph with likelihood of Skill to be in job posting of Data Analyst](Likelihood_of_skill_in_DA_role.png)  
 *Line Chartr Dipicting the the Likelihhod of Demamded Skill in a Data Analyst Job Post*
 
 
