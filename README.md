@@ -5,7 +5,7 @@
 To Find Out the most Demanded Skills for Roles of Data Analyst, Data Engineer and Data Scientist, I filtered out the data for those positions and also kept the data for US Locations only. Thus It Highlights which Skills will be bery much required and relevant to get Entry in the Respective Data Related Job Role.
 
 For Details of the Process and Methods Utilized, Go Through my Notebook:  
-[2_Skill_Demand](Luke_python\3_Project\2_Skill_Demand.ipynb)
+[2_Skill_Demand](\2_Skill_Demand.ipynb)
 
 ## For Data Visualization
 ``` python
