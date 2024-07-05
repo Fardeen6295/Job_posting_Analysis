@@ -30,7 +30,7 @@ For my Deep Dive into Data Analyst job market, I harnessed the power of several 
 To Find Out the most Demanded Skills for Roles of Data Analyst, Data Engineer and Data Scientist, I filtered out the data for those positions and also kept the data for US Locations only. Thus It Highlights which Skills will be bery much required and relevant to get Entry in the Respective Data Related Job Role.
 
 For Details of the Process and Methods Utilized, Go Through my Notebook:  
-[2_Skill_Demand](2_Skill_Demand.ipynb)
+[2_Skill_Demand](/3_Project/2_Skill_Demand.ipynb)
 
 ## For Data Visualization
 ``` python
@@ -100,7 +100,7 @@ S* AS is less frequently requested but still notable at 19%.
 To find Out the trend of In-demand Skill for Data Analyst Role in the entire Year and tracking the trend for analysing what % of Job Postings had those skills in them and are going to be important in Next Year job Market
 
 For Details of Process and Methods, Go through the NoteBook:      
-[3_Skills_Trend](3_Skills_Trend.ipynb)
+[3_Skills_Trend](/3_Project/3_Skills_Trend.ipynb)
 
 ## For Data Visualization
 ```python
