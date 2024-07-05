@@ -61,7 +61,7 @@ plt.show()
 ```
 
 ## Results
-![Graph of Data Roles with Most Required Skills for each of them](Skill_demad_for_3DataRoles.png)*Bar Chart Represnting top Skills in Demand for Top3 Data Roles*
+![Graph of Data Roles with Most Required Skills for each of them](/3_Project/Images/Skill_demad_for_3DataRoles.png)*Bar Chart Represnting top Skills in Demand for Top3 Data Roles*
 
 
 ## Key Insights
@@ -123,7 +123,7 @@ plt.show()
 ```
 
 ## Results
-![Graph with likelihood of Skill to be in job posting of Data Analyst](Likelihood_of_skill_in_DA_role.png)  
+![Graph with likelihood of Skill to be in job posting of Data Analyst](/3_Project/Images/Likelihood_of_skill_in_DA_role.png)  
 *Line Chartr Dipicting the the Likelihhod of Demamded Skill in a Data Analyst Job Post*
 
 
@@ -168,7 +168,7 @@ These insights can help Data Analysts align their skill development with market 
 * Data Analyst
 
 For Details of Process and Methods, Go through the NoteBook:  
-[4_Salary_Analysis.ipynb](4_Salary_Analysis.ipynb)
+[4_Salary_Analysis.ipynb](/3_Project/4_Salary_Analysis.ipynb)
 
 ## For Data Visualization
 
@@ -188,7 +188,7 @@ plt.show()
 
 ## Result
 
-![Box plot Show Distribution of Salary for Different Data Roles](Box_plot_Data_sal_dist.png)
+![Box plot Show Distribution of Salary for Different Data Roles](/3_Project/Images/Box_plot_Data_sal_dist.png)
 *Box Plot Showing Salry Distribution for Data Domain Job Roles*
 
 
@@ -237,7 +237,7 @@ These insights reflect the salary trends for key data roles in the U.S., highlig
 ## 4. How Well Data Analyst are Paid. Comparision is Done on Skills with Highest Median Salary and Skills which are High In-Demand.
 
 For Details of Process and Methods, Go through the NoteBook:  
-[4_Salary_Analysis.ipynb](4_Salary_Analysis.ipynb)
+[4_Salary_Analysis.ipynb](/3_Project/4_Salary_Analysis.ipynb)
 
 ## For Data Visualization
 ```python 
@@ -262,7 +262,7 @@ plt.show()
 ```
 
 ## Result
-!['Top pay vs Top Count Skills Median Salary](Top_pay_vs_Top_count_median_salary.png)
+!['Top pay vs Top Count Skills Median Salary](/3_Project/Images/Top_pay_vs_Top_count_median_salary.png)
 *Bar Chart Comapring Median Salary for Skills with Highest Median Salary and Skills with High In Demand*
 
 ## Key Insights
@@ -328,7 +328,7 @@ These insights can help Data Analysts tailor their skill development to align wi
 ## 5. What are the Most Optimal Skills to learn for being a data analyst i  n US. Here want to compare the Popularity and Median Salary as well to see their Demand as well as How Much These skills will be paid in the Market
 
 For Details of Process and Methods, Go through the NoteBook:  
-[5_Optimal_Skills.ipynb](5_Optimal_Skills.ipynb)
+[5_Optimal_Skills.ipynb](/3_Project/5_Optimal_Skills.ipynb)
 
 ## For Data Visualization
 ```python
@@ -353,7 +353,7 @@ plt.show()
 ```
 
 ## Result
-![Optimal Skills which have High Demad and Decent Median Slary](Optimal_skills.png)
+![Optimal Skills which have High Demad and Decent Median Slary](/3_Project/Images/Optimal_skills.png)
 
 # Key Insights
 
