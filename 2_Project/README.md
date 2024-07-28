@@ -60,7 +60,7 @@ plt.title('Gender Distribuition of Customers', fontsize=14)
 plt.show()
 ```
 ### Result of Code
-![Male-Female Customer Counts](2_Project\Visuals\MaleFemale.png)
+![Male-Female Customer Counts](2_Project/Visuals\MaleFemale.png)
 
 ### Key Insights
 Male are more in number as comapred to Females.
